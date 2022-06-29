@@ -1,0 +1,30 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: burlywood;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+	width: 500px;
+	height: 300px;
+	border-radius: 10px;
+	padding: 50px 20px 0 20px;
+	box-sizing: border-box;
+	background: rgb(0, 114, 255);
+	background: radial-gradient(
+		circle,
+		rgba(0,114,255,1) 1%,
+		rgba(33, 25, 173, 1) 100%
+	);
+	margin: 100px auto;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.card #inputCVV {
+	width: 50px;
+}
+
+.title {
+	color: white;
+}
