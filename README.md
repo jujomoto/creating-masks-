@@ -6,7 +6,9 @@ This small project help us create masks for card number, date and cvv. It also i
 
 Just download or clone it
 
-
 ## Usage
 
 open index.html in your browser
+
+### Technologies
+HTML, CSS, JavaScript
