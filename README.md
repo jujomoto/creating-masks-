@@ -10,5 +10,5 @@ Just download or clone it
 
 open index.html in your browser
 
-### Technologies
+### Languages
 HTML, CSS, JavaScript
